@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='firex-bundle-foobar',
       version='0.1.',
-      description='Example library with fake tasks',
+      description='Example library with fake Firexapp tasks',
       url='https://github.com/FireXStuff/firex-bundle-foobar.git',
       author='Core FireX Team',
       author_email='firex-dev@gmail.com',
