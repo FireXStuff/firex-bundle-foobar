@@ -11,4 +11,6 @@ setup(name='firex-bundle-foobar',
       zip_safe=True,
       install_requires=[
           "firexapp",
-      ],)
+      ],
+      entry_points={'firex.bundles': 'firex-bundle-foobar = firex_bundle_foobar'},
+      )
